@@ -1,4 +1,7 @@
 
+#This is the same binary classification with data augmentation 
+#saved as python file in github
+
 
 #create a deep learning model to work on
 
